@@ -44,3 +44,4 @@ QueryMate AI is a smart chatbot built to help students quickly solve their subje
 4. If relevant, a function is called to get examples or definitions
 
 ---
+
