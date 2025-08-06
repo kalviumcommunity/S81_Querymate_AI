@@ -45,3 +45,4 @@ QueryMate AI is a smart chatbot built to help students quickly solve their subje
 
 ---
 
+Smart AI chatbot that answers student doubts using LLMs with structured output and basic RAG support.
